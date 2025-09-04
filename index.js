@@ -5,3 +5,7 @@ const dob ="26th feb";
 function sayName(){
     console.log("My name is "+name);
 }
+
+function sayAge(){
+    return age>=18
+}
